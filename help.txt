@@ -1,0 +1,15 @@
+inspiration
+1: https://ez-snippet.vercel.app
+
+
+-------------- Light theme --------------
+Body BG:		hsl(0, 12%, 87%);
+text-1:			hsl(228, 12%, 44%);
+text-1:			hsl(230, 17%, 14%);
+light-card: 	hsl(227, 47%, 96%);
+
+--------------- Dark theme ---------------
+Body BG:		hsl(230, 17%, 14%);
+text-1:			hsl(228, 34%, 66%);
+text-1:			hsl(0, 0%, 100%);
+dark-card:  	hsl(228, 28%, 20%);
